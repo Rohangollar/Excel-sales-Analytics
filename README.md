@@ -4,7 +4,7 @@ Sales Report:
 
 Project Goals:
 
-Develop a detailed report on customer performance .
+Develop a detailed report on customer performance https://github.com/Rohangollar/Excel-sales-Analytics/blob/main/Customer%20netsales%20performance.pdf.
 Perform an in-depth comparison between market performance and sales objectives.
 Purpose of Sales Analytics: Enable businesses to monitor and evaluate their sales activities and overall performance.
 
