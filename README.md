@@ -19,7 +19,7 @@ Finance Report:
 
 Project Goals:
 
-Generate Profit and Loss (P&L) statements for each https://github.com/Rohangollar/Excel-sales-Analytics/blob/main/P%20%26%20L%20for%20fiscal%20Years.pdf and month.
+Generate Profit and Loss (P&L) statements for each https://github.com/Rohangollar/Excel-sales-Analytics/blob/main/P%20%26%20L%20for%20fiscal%20Years.pdf and https://github.com/Rohangollar/Excel-sales-Analytics/blob/main/P%20%26%20L%20By%20month.pdf.
 Create Profit and Loss (P&L) reports segmented by market.
 Purpose of Finance Analytics: Assess financial performance, support informed decision-making, and enhance communication with stakeholders.
 
