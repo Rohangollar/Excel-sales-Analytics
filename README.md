@@ -23,7 +23,7 @@ Generate Profit and Loss (P&L) statements for each https://github.com/Rohangolla
 Create Profit and Loss (P&L) reports segmented by market https://github.com/Rohangollar/Excel-sales-Analytics/blob/main/P%20%26%20L%20Market.pdf.
 Purpose of Finance Analytics: Assess financial performance, support informed decision-making, and enhance communication with stakeholders.
 Additonal Insights 
-1 New products sold sold in 2021.
+1 New products sold sold in 2021 https://github.com/Rohangollar/Excel-sales-Analytics/blob/main/New%20products%202021.pdf.
 2 Top 5 & bottom 5 Products on Quantity sold.
 3 Gross % according to Subzone
 
