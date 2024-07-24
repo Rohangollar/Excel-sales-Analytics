@@ -24,8 +24,8 @@ Create Profit and Loss (P&L) reports segmented by market https://github.com/Roha
 Purpose of Finance Analytics: Assess financial performance, support informed decision-making, and enhance communication with stakeholders.
 Additonal Insights 
 1 New products sold sold in 2021 https://github.com/Rohangollar/Excel-sales-Analytics/blob/main/New%20products%202021.pdf.
-2 Top 5 & bottom 5 Products on Quantity sold.
-3 Gross % according to Subzone
+2 Top 5 & bottom 5 Products on Quantity sold https://github.com/Rohangollar/Excel-sales-Analytics/blob/main/Top%205%20and%20Bottom%205%20produst%20on%20qty%20sold.pdf.
+3 Gross margin % according to Subzone
 
 Significance of Analyzing Finance Data:
 
